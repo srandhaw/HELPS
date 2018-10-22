@@ -24,7 +24,7 @@ url: "http://purduehelps.org" # the base hostname & protocol for your site, e.g.
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
